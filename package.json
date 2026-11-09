@@ -1,0 +1,8 @@
+{
+  "name": "sstv-horch",
+  "version": "0.1.0",
+  "description": "SSTV-App (Codieren und Decodieren von Bildern) als PWA, Mikrofon und WAV",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "type": "module"
+}
